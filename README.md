@@ -9,6 +9,15 @@ https://ryogrid.net/profile/publication_ja.html
 [![My Qiita followers](https://qiita-badge.apiapi.app/s/ryo_grid/followers.svg)](http://qiita.com/ryo_grid)
                 
 
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryogrid&count_private=true&show_icons=true&&theme=onedark" />
+</span>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryogrid&theme=onedark&layout=compact" />
+</span>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryogrid&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **ryogrid/ryogrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
