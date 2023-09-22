@@ -2,7 +2,7 @@ I'm ryo_grid aka Ryo Kanbayashi.
 Please see below!    
    
 https://ryogrid.net/profile/index.html    
-https://ryogrid.net/profile/publication_ja.html  
+https://ryogrid.github.io/profile/portfolio_en.html  
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/ryo_grid/posts.svg)](http://qiita.com/ryo_grid)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/ryo_grid/contributions.svg)](http://qiita.com/ryo_grid)
