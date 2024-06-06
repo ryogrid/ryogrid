@@ -17,7 +17,7 @@ https://ryogrid.github.io/profile/portfolio_en.html
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryogrid&count_private=true&show_icons=true&&theme=onedark" />
 </span>
 <span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryogrid&hide=jupyter%20notebook,html,javascript,java,c,c%2B%2B,renderscript,typescript&theme=onedark&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryogrid&hide=jupyter%20notebook,html,javascript,java,c,c%2B%2B,renderscript,typescript,tex&theme=onedark&layout=compact" />
 </span>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryogrid&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
