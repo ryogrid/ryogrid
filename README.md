@@ -1,5 +1,5 @@
-I'm ryo_grid aka Ryo Kanbayashi.    
-Please see below!    
+I'm ryo_grid a.k.a Ryo Kanbayashi.    
+If you want to know about me, please see below!    
    
 https://ryogrid.net/profile/index.html    
 https://ryogrid.github.io/profile/portfolio_en.html  
