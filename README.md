@@ -2,7 +2,10 @@ I'm ryo_grid a.k.a Ryo Kanbayashi.
 If you want to know about me, please see below!    
    
 https://ryogrid.net/profile/index.html    
-https://ryogrid.github.io/profile/portfolio_en.html  
+https://ryogrid.github.io/profile/portfolio_en.html
+
+Contributions to PostgreSQL
+- [Commits](https://github.com/search?q=repo%3Apostgres%2Fpostgres+Ryo+Kanbayashi&type=commits&s=committer-date&o=desc)
 
 <a href="https://github.com/sponsors/ryogrid?o=esb"> 
 <img src="https://i.gyazo.com/d3b8862854a3f9587b11be419c3ab4c2.png" />   
