@@ -23,4 +23,4 @@ Contributions to PostgreSQL
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryogrid&hide=jupyter%20notebook,html,javascript,java,c,c%2B%2B,renderscript,typescript,tex,vba,ruby&theme=onedark&layout=compact" />
 </span>
 
-[![trophy](https://github-profile-trophy-ou5r1wvbk-ryo-ma-s-team.vercel.app/?username=ryogrid&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryogrid&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
