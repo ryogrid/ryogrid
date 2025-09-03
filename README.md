@@ -1,7 +1,7 @@
 I'm ryo_grid a.k.a Ryo Kanbayashi.    
 If you want to know about me, please see below!    
    
-https://ryogrid.net/profile/index.html    
+https://ryogrid.net/profile/index_en.html   
 https://ryogrid.github.io/profile/portfolio_en.html
 
 Contributions to PostgreSQL
